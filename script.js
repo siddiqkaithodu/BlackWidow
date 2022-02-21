@@ -26,7 +26,7 @@ exec.onclick=()=>{
    case "4":output.textContent="you selected fb hack\n";
    break;  
    case "5":output.textContent="you selected specs\n"; 
-   
+
    break; 
    default:output.textContent="you selected something that i don't know\n";
    }
