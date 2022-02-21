@@ -21,8 +21,8 @@ color:#0e0;
     animation:initiate 2s linear;
     text-align:center;
     top:40%;
-    left:25px;
-    position:absolute;
+ 
+    position:relative;
     color:red;
     font-size:30px; 
     font-weight:100;
