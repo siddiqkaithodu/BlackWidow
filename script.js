@@ -30,7 +30,7 @@ exec.onclick=()=>{
    break; 
    default:output.textContent="you selected something that i don't know\n";
    }
-                    
+   cmd.value='';                 
 };
 
 
