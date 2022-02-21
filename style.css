@@ -19,7 +19,7 @@ color:#0e0;
 #loading{
     font-family:monospace;
     animation:initiate 2s linear;
-    text-align:centre;
+    text-align:center;
     top:40%;
     left:25px;
     position:absolute;
